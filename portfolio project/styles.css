@@ -60,3 +60,108 @@ h1,h2
 .e_cname{
     font-weight: bold;
 }
+
+
+/*********************************************
+**************    INTERNSHIP    ***************
+**********************************************/
+
+.internship{
+    background-color:teal;}
+
+
+.internship h1{
+    font-size: 2rem;
+}
+
+.i_title{
+    font-weight: bold;
+    font-size:1.2rem;
+}
+
+.i_description summary{
+    font-style: italic;
+}
+
+/*********************************************
+**************    PROJECTS    ***************
+**********************************************/
+
+.projects{
+    background-image: url(./images/projects.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+.projects h1{
+    font-size: 2rem;
+}
+
+.p_title{
+    font-weight: bold;
+    font-size:1.2rem;
+}
+
+.p_description summary{
+    font-style: italic;
+}
+
+
+/*********************************************
+**************    COURSES/CERTIFICATIONS    ***************
+**********************************************/
+
+.courses{
+    background-image: url(./images/course.jpg);
+    background-position: top right;
+
+}
+
+.courses h1{
+    font-size: 2rem;
+}
+
+.c_name{
+    font-weight: bold;
+    font-size:1.2rem;
+}
+
+/*********************************************
+************** contact ***************
+**********************************************/
+.contact{
+    background-color: rgb(46, 25, 75);
+    color: wheat;
+}
+/* .contact .c_1 .c_2{
+    
+}
+.c_1{
+    float: left;
+    
+    
+}
+.c_2{
+    padding-left: 500px;
+    
+    
+} */
+
+.contact h1{
+    font-size: 2rem;
+}
+
+/* .c_1 ul{
+    list-style: none;
+} */
+
+/* .c_2 .img{
+    image-resolution: 2 2;
+} */
+
+.c_2 a{
+    color: white
+}
+    
